@@ -20,8 +20,8 @@ https://github.com/EliabWoldeyes/Robot_Design_Project
 
   The project went well, robotics always interested me and this project was fun. I do regret that through my university time I didn't pursue more courses and extracurricular activities related to robotics. I'm thankful to my teammates for a successful project.
 
-   Denis Chupin
-   Eliab Woldeyes
+   Denis Chupin <br/>
+   Eliab Woldeyes <br/>
 
    Sincerely,
-    Jonathan
+   &nbsp;&nbsp;&nbsp;&nbsp;Jonathan
