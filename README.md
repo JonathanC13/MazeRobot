@@ -23,5 +23,5 @@ https://github.com/EliabWoldeyes/Robot_Design_Project
    Denis Chupin <br/>
    Eliab Woldeyes <br/>
 
-   Sincerely,
+   Sincerely, <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;Jonathan
