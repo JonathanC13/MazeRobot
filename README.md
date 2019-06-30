@@ -12,8 +12,8 @@ https://github.com/EliabWoldeyes/Robot_Design_Project
 - This repo was an early one to save a few things.
 
 -	Using an Arduino Nano controlled robot, designed and implemented decision making processes that used infrared and sonar sensors’ data so the robot could self-navigate a line following maze and an obstacle wall maze. 
-  - Line following maze: Used 2 infrared sensors oriented down for navigation
-  - Wall maze: Used 4 infrared sensors oriented parallel to the ground to detect the white walls and an ultra sound sensor oriented foward.
+  <br/> - Line following maze: Used 2 infrared sensors oriented down for navigation
+  <br/> - Wall maze: Used 4 infrared sensors oriented parallel to the ground to detect the white walls and an ultra sound sensor oriented foward.<br/>
 -	The testing methods used were observing the robot’s behavior during specific situations and the sensor log output.
 
 # End Remark
